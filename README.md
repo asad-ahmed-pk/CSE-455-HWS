@@ -15,7 +15,7 @@ Homeworks will be added to this repo as I complete the lectures and the solution
 | H/W #  | Title / Link | Status  |
 |---|---|---|
 |0   | [Fun with Color!](https://github.com/pjreddie/vision-hw0)  | Done | 
-|1   | [Resizing and Filtering](https://github.com/pjreddie/vision-hw1)  |  | 
+|1   | [Resizing and Filtering](https://github.com/pjreddie/vision-hw1)  | Done  | 
 |2   | [Panoramas!](https://github.com/pjreddie/vision-hw2)  |  | 
 |3   | [Optical Flow](https://github.com/pjreddie/vision-hw3)  |  | 
 |4   | [Neural Networks and Machine Learning](https://github.com/pjreddie/vision-hw4)  |  | 
